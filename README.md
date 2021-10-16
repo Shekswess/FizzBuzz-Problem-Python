@@ -4,7 +4,7 @@
 
 -The goal of this project is to make something simple but effective project.
 
--the problem goes like this: Looping through numbers from 1 to 100, if the number is divisible by 3 then print Fizz if the number is divisible by 5 then print Buzz, if the number is divisible by 3 and 5 then print FizzBuzz and if the number is not divisible by 3 and 5 print the number.
+-The problem goes like this: Looping through numbers from 1 to 100, if the number is divisible by 3 then print Fizz if the number is divisible by 5 then print Buzz, if the number is divisible by 3 and 5 then print FizzBuzz and if the number is not divisible by 3 and 5 print the number.
 
 -Maybe this Project can be upgraded or better optimised but I'm satisfied.
 
